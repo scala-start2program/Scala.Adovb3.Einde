@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Adovb3.Wpf", "Scala.Adovb3.Wpf\Scala.Adovb3.Wpf.csproj", "{1431EF98-C09A-4B5B-9C4B-B888A82B5936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Adovb3.Core", "Scala.Adovb3.Core\Scala.Adovb3.Core.csproj", "{8C6BEAE5-9CA3-4FBB-A97B-DF8D1F0F3D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1431EF98-C09A-4B5B-9C4B-B888A82B5936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1431EF98-C09A-4B5B-9C4B-B888A82B5936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1431EF98-C09A-4B5B-9C4B-B888A82B5936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1431EF98-C09A-4B5B-9C4B-B888A82B5936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6BEAE5-9CA3-4FBB-A97B-DF8D1F0F3D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6BEAE5-9CA3-4FBB-A97B-DF8D1F0F3D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6BEAE5-9CA3-4FBB-A97B-DF8D1F0F3D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6BEAE5-9CA3-4FBB-A97B-DF8D1F0F3D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A004B1C6-B750-4C95-B781-D1303A46D78D}
+	EndGlobalSection
+EndGlobal
